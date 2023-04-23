@@ -2,6 +2,14 @@
 
 <!--
 **AyushiJ-n/AyushiJ-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=”center”>
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/122716578/233843586-86d9f0b7-77ee-425c-a18f-9bc8f2977536.png" alt="my banner">
+</p>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AyushiJ-n)](https://github.com/AyushiJ-n)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiJ-n&layout=compact)](https://github.com/AyushiJ-n)
+
 
 Here are some ideas to get you started:
 
