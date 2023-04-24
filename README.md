@@ -8,7 +8,7 @@ Hi there, I'm Ayushi 👋
 </h3>
 
 <h2 align="center">
-I'm a Assistant Manager 💻, Electric Vehicle Enthusiast, Future Data Scientist !
+I'm an Assistant Manager 💻, Electric Vehicle Enthusiast, Future Data Scientist !
 </h2>
 
 ## 🔭 I'm currently working on
