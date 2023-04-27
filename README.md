@@ -18,8 +18,7 @@ I'm an Assistant Manager 💻, Electric Vehicle Enthusiast, Future Data Scientis
 
 ## 🌱 I'm currently learning
 
-- Python for Data Science, JSON
-- Tableau, Webscrapig, SQL
+- Data Analysis with Pandas, Tableau, Webscrapig, SQL
 - Machine Learning
 - Artificial Intelligence  
 
