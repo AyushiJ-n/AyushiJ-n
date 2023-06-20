@@ -29,10 +29,5 @@ I'm an Assistant Manager 💻, Electric Vehicle Enthusiast, Future Data Scientis
   
 - Electrical Engineering - Matlab | Matlabgui | Simulink | Scilab | Zigbee | Arduino Uno | Bluetooth Module | Relays | LDR-IR Sensor
 
-## 📈 GitHub Stats 
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AyushiJ-n)](https://github.com/AyushiJ-n)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiJ-n&layout=compact)](https://github.com/AyushiJ-n)
 
 
