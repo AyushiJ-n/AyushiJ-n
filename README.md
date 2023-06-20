@@ -18,15 +18,14 @@ I'm an Assistant Manager 💻, Electric Vehicle Enthusiast, Future Data Scientis
 
 ## 🌱 I'm currently learning
 
-- Data Analysis with Pandas, Tableau, Webscrapig, SQL
 - Machine Learning
 - Artificial Intelligence  
 
 ## 💼 Technical Skills
 
-- Data Science - Python | Pandas | Numpy | Matplotlib | Json | Excel-Vba Macros | Tkinter
+- Data Science - Python | Pandas | Numpy | Matplotlib | Json | Excel-Vba Macros | SQL | Tableau | Web-Scraping
   
-- Software Development - Data Structure | Algorithm | Visio-Uml Diagrams | Agile Model
+- Software Development - Data Structure | Algorithm | Visio-Uml Diagrams | Agile Model | Tkinter
   
 - Electrical Engineering - Matlab | Matlabgui | Simulink | Scilab | Zigbee | Arduino Uno | Bluetooth Module | Relays | LDR-IR Sensor
 
